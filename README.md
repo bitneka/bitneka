@@ -45,7 +45,7 @@ We build custom software, AI/LLM solutions, AI agents, web and mobile applicatio
 ## Connect with us
 
 <p>
-  <a href="https://www.linkedin.com/company/bitneka-technologies/"><img src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" width="28" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/bitneka-technologies/"><img src="https://raw.githubusercontent.com/bitneka/.github/main/linkedin.svg" alt="LinkedIn" width="28" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/bitnekaofficial"><img src="https://cdn.simpleicons.org/instagram" alt="Instagram" width="28" /></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/bitnekaofficial"><img src="https://cdn.simpleicons.org/facebook" alt="Facebook" width="28" /></a>&nbsp;&nbsp;
   <a href="https://wa.me/923330200750"><img src="https://cdn.simpleicons.org/whatsapp" alt="WhatsApp" width="28" /></a>
